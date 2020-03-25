@@ -1,2 +1,2 @@
 Name	Heikki Luukkonen
-Group	Election Riggers
+Group	TRTKP18A3
